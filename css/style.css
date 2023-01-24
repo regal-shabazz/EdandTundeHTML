@@ -7,8 +7,10 @@
 
 body {
     max-width: 100vh;
+    min-height: 100vh;
 }
 
 main {
-    width: 90%;
+    width: 95%;
+
 }
